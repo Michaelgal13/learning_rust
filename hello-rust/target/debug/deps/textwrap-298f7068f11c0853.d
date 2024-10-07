@@ -1,0 +1,11 @@
+E:\rust\hello-rust\target\debug\deps\libtextwrap-298f7068f11c0853.rmeta: C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\lib.rs C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\indentation.rs C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\splitting.rs C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core.rs C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core\optimal_fit.rs
+
+E:\rust\hello-rust\target\debug\deps\libtextwrap-298f7068f11c0853.rlib: C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\lib.rs C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\indentation.rs C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\splitting.rs C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core.rs C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core\optimal_fit.rs
+
+E:\rust\hello-rust\target\debug\deps\textwrap-298f7068f11c0853.d: C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\lib.rs C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\indentation.rs C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\splitting.rs C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core.rs C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core\optimal_fit.rs
+
+C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\lib.rs:
+C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\indentation.rs:
+C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\splitting.rs:
+C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core.rs:
+C:\Users\MikeyG\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core\optimal_fit.rs:
